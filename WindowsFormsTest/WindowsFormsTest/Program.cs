@@ -14,6 +14,7 @@ namespace WindowsFormsTest
         [STAThread]
         static void Main()
         {
+            int test = 42;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

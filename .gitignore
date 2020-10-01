@@ -187,3 +187,4 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/WindowsFormsTest/.vs/WindowsFormsTest/v16/Server/sqlite3
